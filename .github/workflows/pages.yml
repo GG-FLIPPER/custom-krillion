@@ -1,4 +1,4 @@
-name: Deploy Shrimpion
+name: Deploy Custom Krillion
 
 on:
   push:

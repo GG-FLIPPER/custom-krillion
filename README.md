@@ -4,6 +4,8 @@
 
 Custom Krillion is a no-build browser trivia game inspired by rare-answer daily dive games. It includes daily and unlimited play, themed prompt packs, local progress, and a Settings flow for replacing the built-in result icons with your friends' faces.
 
+[Play Custom Krillion](https://gg-flipper.github.io/custom-krillion/) · [Latest release](https://github.com/GG-FLIPPER/custom-krillion/releases/latest)
+
 ## Install and play
 
 This project has no package dependencies or compilation step.
