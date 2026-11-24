@@ -2,7 +2,7 @@
 
 ### A personal, offline-first daily trivia dive with friend-face reactions.
 
-Custom Krillion is a no-build browser trivia game inspired by rare-answer daily dive games. It includes daily and unlimited play, themed prompt packs, local progress, and a Settings flow for replacing the built-in result icons with your friends' faces.
+Custom Krillion is a no-build browser trivia game inspired by rare-answer daily dive games. Its refreshed prompts focus on clear, familiar general knowledge, with less-common answers still offering a challenge. It includes daily and unlimited play, themed prompt packs, local progress, and a Settings flow for replacing the built-in result icons with your friends' faces.
 
 [Play Custom Krillion](https://gg-flipper.github.io/custom-krillion/) · [Latest release](https://github.com/GG-FLIPPER/custom-krillion/releases/latest)
 
@@ -42,7 +42,7 @@ Missing, invalid, or oversized files are rejected and keep the built-in pixel ic
 
 ## Play modes
 
-- **Daily Dive** — seven fresh prompts.
+- **Daily Dive** — seven prompts from 32-question topic tracks.
 - **Unlimited** — continue diving through the prompt pool.
 - **Themed Packs** — explore specialized prompt sets and visual worlds.
 - **Shrimp Relay** — pass the device between players.
